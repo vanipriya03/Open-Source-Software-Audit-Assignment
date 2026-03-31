@@ -1,5 +1,5 @@
 
-# OSS Audit Project (Bash Scripting)
+# OSS Audit Project 
 
 **Author:** Vani Priya  
 **Registration Number:** 24BEY10147  
