@@ -35,9 +35,19 @@ This file contains the output generated from `script5.sh`.
 
 ---
 
-## ⚙️ How to Use
+## 🎯 Learning Outcomes
+This project helps in developing a clear understanding of Bash scripting fundamentals and OSS auditing techniques. It enhances skills such as:
 
-### Give execution permission:
-```bash
-chmod +x scriptname.sh
+- Command-line usage  
+- File handling  
+- Process automation  
+- System monitoring  
+- Debugging scripts  
+
+Students also gain experience in writing structured scripts and solving real-world problems using open-source tools.
+
+---
+
+## 📘 Conclusion
+The OSS Audit Project provides valuable hands-on experience in working with open-source tools and Linux environments. It demonstrates how Bash scripting can be effectively used to automate repetitive tasks, analyze system data, and improve efficiency. Overall, this project strengthens practical knowledge and prepares students for real-world scenarios involving system administration and software auditing.
 
