@@ -1,0 +1,8 @@
+------------------------------------------------
+OPEN SOURCE MANIFESTO
+Generated on: 31 March 2026
+------------------------------------------------
+I believe in the power of open-source tools like Git.
+To me, software freedom means Collaboration.
+As a developer, I pledge to build Web project and share it with the world freely.
+------------------------------------------------
